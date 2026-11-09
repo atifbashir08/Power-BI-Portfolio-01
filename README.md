@@ -6,7 +6,7 @@ production and quality data across denim washing units. Data has been
 sanitized for confidentiality — all buyer names, item codes, and figures 
 are sample values.
 
-**Live dashboard:** [View interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWZhNzY1YTctNWQ3NS00NzhkLWJiZTYtMjU4OGY3NjgwOWRjIiwidCI6Ijg4YWFhY2Y0LTQzYzItNGU1Ni04OTRkLTIzZDE5NDRhYjY5ZiJ9)
+**Live dashboard:** [View interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTFlOTRmYWMtM2EyYi00OTI4LWI1OWQtMTM1ZDE1ODlhYjQ4IiwidCI6IjlhZmFmMWM0LTlhMzYtNDY3NS1hYTQ4LWQ2NmE4N2UxNTMxMyJ9)
 
 ---
 
