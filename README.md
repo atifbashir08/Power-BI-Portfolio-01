@@ -31,7 +31,7 @@ driving quality issues.
   Unit, Category) for fast drill-down
 
 ## Result
-- Daily reporting time cut from 2-3 hours to under 15 minutes
+- Daily reporting time cut from 2-3 hours to under 30 minutes
 - Real-time visibility into DHU trend spikes as they happen
 - Top defect categories surfaced clearly, enabling targeted quality action
 - 4 disconnected data sources replaced with a single connected reporting tool
